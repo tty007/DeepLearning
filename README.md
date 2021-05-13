@@ -1,0 +1,2 @@
+# ゼロから作るDeepLearning
+Pythonを用いてDeepLearingを体型的に学ぶリポジトリ。
